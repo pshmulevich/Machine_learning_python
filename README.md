@@ -3,14 +3,15 @@
 Machine Learning in Python
 ==========================
 
-##Getting Started##
+## Getting Started ##
 
 There are some classic machine learning examples available online worth examining more closely
 Namely, one called the Boston Housing Machine learning problem.
 
 This is a Linear Regression problem that uses a dataset of housing prices in Boston. The dataset also includes additional features like the Crime rate and age of the home owners.
 
-###How do you begin?###
+### How do you begin? ###
+
 Python code usually begins by importing libraries that are required in order to able to use some functionality in code.
 
 ```
@@ -43,7 +44,7 @@ sns.set(style="whitegrid", color_codes=True)
 ```
 Seaborn is used for statistical data visualization
 
-##Now that we have the libraries and tools set, the next step would be to access the data##
+## Now that we have the libraries and tools set, the next step would be to access the data ##
 
 The Boston dataset can be imported
 ```
@@ -76,7 +77,7 @@ print(Y_train.shape)
 print(Y_test.shape)
 ```
 
-###Linear Regression###
+### Linear Regression ###
 ```
 from sklearn.linear_model import LinearRegression
 
