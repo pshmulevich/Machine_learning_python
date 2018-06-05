@@ -1,4 +1,4 @@
-Suppose you have a dataset loaded. You are interested in doing some statistical analysis with it. Here are useful python and pandas commands:
+Suppose you have a dataset loaded. In my example I am referring to the Boston Housing dataset referred to in my README.md file. You are interested in doing some statistical analysis with it. Here are useful python and pandas commands:
 
 Finding the minimum price of the data
 
